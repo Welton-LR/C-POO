@@ -1,0 +1,14 @@
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-POO\bin\Debug\net7.0\C-POO.exe
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-POO\bin\Debug\net7.0\C-POO.deps.json
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-POO\bin\Debug\net7.0\C-POO.runtimeconfig.json
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-POO\bin\Debug\net7.0\C-POO.dll
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-POO\bin\Debug\net7.0\C-POO.pdb
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-POO\obj\Debug\net7.0\C-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-POO\obj\Debug\net7.0\C-POO.AssemblyInfoInputs.cache
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-POO\obj\Debug\net7.0\C-POO.AssemblyInfo.cs
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-POO\obj\Debug\net7.0\C-POO.csproj.CoreCompileInputs.cache
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-POO\obj\Debug\net7.0\C-POO.dll
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-POO\obj\Debug\net7.0\refint\C-POO.dll
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-POO\obj\Debug\net7.0\C-POO.pdb
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-POO\obj\Debug\net7.0\C-POO.genruntimeconfig.cache
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-POO\obj\Debug\net7.0\ref\C-POO.dll
